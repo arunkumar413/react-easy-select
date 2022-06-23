@@ -4,7 +4,7 @@
   "description": "A simple select component based on react",
   "main": "./lib/index.js",
   "scripts": {
-    "build": "babel --presets env src -d ./ --ignore src/index.test.js",
+    "build": "webpack",
     "dev": "babel --presets env src -d ./ --watch --ignore src/index.test.js",
     "test": "jest --watch"
   },

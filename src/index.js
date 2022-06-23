@@ -1,5 +1,4 @@
 import React, { useState, useEffect, useRef } from "react";
-import "./style.css";
 import ClickAwayListener from "react-click-away-listener";
 
 export function EasySelect(props) {

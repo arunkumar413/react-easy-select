@@ -1,0 +1,43 @@
+.easy-select-container {
+  width: 200px;
+  font-family: sans-serif;
+}
+
+.easy-select-container .selected-container {
+  font-family: sans-serif;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px,
+    rgb(209, 213, 219) 0px 0px 0px 1px inset;
+}
+
+.easy-select-container .options-container {
+  font-family: sans-serif;
+  padding: 5px;
+  border-radius: 5px;
+  display: grid;
+  grid-template-columns: 1fr;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
+    rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+.easy-select-container .selected-container:hover {
+  border: solid 1px blue;
+}
+
+.easy-select-container .option {
+  padding: 10px;
+}
+
+.easy-select-container .option:hover {
+  background-color: azure;
+  color: blue;
+}
+
+.easy-select-container .arrow {
+  text-align: right;
+}
