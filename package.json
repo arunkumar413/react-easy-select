@@ -1,6 +1,6 @@
 {
   "name": "easy-select",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "A simple select component based on react",
   "main": "index.js",
   "scripts": {
