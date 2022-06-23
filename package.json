@@ -2,7 +2,7 @@
   "name": "easy-select",
   "version": "1.1.17",
   "description": "A simple select component based on react",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "build": "babel --presets env src -d ./ --ignore src/index.test.js",
     "dev": "babel --presets env src -d ./ --watch --ignore src/index.test.js",
