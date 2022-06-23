@@ -23,11 +23,6 @@
     "url": "https://github.com/arunkumar413/react-easy-select"
   },
   "homepage": "https://github.com/arunkumar413/react-easy-select",
-  "dependencies": {
-    "react": "18.1.0",
-    "react-click-away-listener": "^2.2.1",
-    "react-dom": "18.1.0"
-  },
   "peerDependencies": {
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
