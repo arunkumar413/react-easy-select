@@ -2,6 +2,10 @@ easy-select, A simple select component based on react.
 
 ## Usage
 
+```js
+import {EasySelect} from 'easy-select'
+```
+
 ```jsx
 export default function App() {
   const [selected, setSelected] = useState({ label: "", value: "" });
