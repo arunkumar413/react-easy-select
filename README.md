@@ -2,7 +2,7 @@ easy-select, A simple select component based on react.
 
 ## Usage
 
-```
+```jsx
 export default function App() {
   const [selected, setSelected] = useState({ label: "", value: "" });
 
@@ -40,7 +40,7 @@ export default function App() {
 
 Below is the default style. You can change this defualt syle in the ` style.css ` file. Every thing is wrapped under the class ` easy-select-container` . You can vary the width of the container explicitly. Otherwise it should take the available width of the parent container.
 
-```
+```css
 .easy-select-container {
   width: 200px;
 }
