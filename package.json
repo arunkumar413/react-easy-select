@@ -1,6 +1,6 @@
 {
   "name": "easy-select",
-  "version": "1.1.18",
+  "version": "1.1.19",
   "description": "A simple select component based on react",
   "main": "./lib/EasySelect.js",
   "scripts": {
