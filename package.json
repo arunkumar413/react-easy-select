@@ -1,6 +1,6 @@
 {
   "name": "easy-select",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple select component based on react",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arunkumar413/npm-package-template"
+    "url": "git+https://github.com/arunkumar413/react-easy-select"
   },
   "keywords": [
     "npm",
@@ -20,9 +20,9 @@
   "author": "cleverbeagle",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cleverbeagle/npm-package-template/issues"
+    "url": "https://github.com/arunkumar413/react-easy-select"
   },
-  "homepage": "http://cleverbeagle.com/packages/template",
+  "homepage": "https://github.com/arunkumar413/react-easy-select",
   "dependencies": {
     "react": "18.1.0",
     "react-click-away-listener": "^2.2.1",
